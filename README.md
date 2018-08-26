@@ -17,6 +17,6 @@ flower_prediction
 ### finally output by the computer system wheter flower is red or blue
  
  
-# @authers quote"
+# @authors quote"
    hope u enjoyed it!!!!! free feel to make changes . 
 # ;)....."
