@@ -1,7 +1,9 @@
 # ml_learning
 flower_prediction
 <img src="https://static1.squarespace.com/static/5206b718e4b0bdc26006bae2/t/5245b43ce4b038b5cbe9c106/1380305993891/SVM1, https://www.google.co.in/">
-## plotting the flower w.r.t to lenght ,width convoluted to color of flowe
-<img src="https://user-images.githubusercontent.com/39950187/44627639-d91e8780-a94e-11e8-9f8f-f5724b864551.png">
-## finally predicting the color of mystry flower
-<img src="">
+## plotting the flower w.r.t to lenght ,width convoluted to color of flower
+   <img src="https://user-images.githubusercontent.com/39950187/44627639-d91e8780-a94e-11e8-9f8f-f5724b864551.png">
+   
+   
+# finally predicting the color of mystry flower
+   <img src="https://user-images.githubusercontent.com/39950187/44627675-53e7a280-a94f-11e8-8676-fd38ac30964f.png">
