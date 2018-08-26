@@ -11,5 +11,7 @@ flower_prediction
 ## working strategy behind
 <img src="https://user-images.githubusercontent.com/39950187/44627746-c0af6c80-a950-11e8-9003-347ec695f372.png">
    
-# finally predicting the color of mystry flower
+# learning step 
    <img src="https://user-images.githubusercontent.com/39950187/44627675-53e7a280-a94f-11e8-8676-fd38ac30964f.png">
+# finally output by the computer system wheter flower is red or blue
+# hope u enjoyed it!!!!! free feel to make change
