@@ -5,8 +5,8 @@ flower_prediction
    <img src="https://user-images.githubusercontent.com/39950187/44627639-d91e8780-a94e-11e8-9f8f-f5724b864551.png">
 
 # requirements:
-## 1.prdicting the output given on the basis of given input
-### 2.depending on the givne input taking which type of activation function should be used
+## 1.predicting the output given on the basis of given input
+### 2.depending on the given input taking which type of activation function should be used
 ### finally calculating the diffrence between exact ouput and predicted output and try to minimise that cost as close as possible
 ## working strategy behind
 <img src="https://user-images.githubusercontent.com/39950187/44627746-c0af6c80-a950-11e8-9003-347ec695f372.png">
