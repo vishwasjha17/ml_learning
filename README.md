@@ -1,3 +1,3 @@
 # ml_learning
 flower_prediction
-![demo](https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj2qviiwIrdAhWBYysKHU8FA9YQjRx6BAgBEAU&url=http%3A%2F%2Fwww.louisdorard.com%2Fblog%2Fwhen-machine-learning-fails&psig=AOvVaw1RIsB7iJRHbW91kPSlLJ2k&ust=1535365462781794)
+<img src="https://static1.squarespace.com/static/5206b718e4b0bdc26006bae2/t/5245b43ce4b038b5cbe9c106/1380305993891/SVM1, https://www.google.co.in/">
