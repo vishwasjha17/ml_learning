@@ -9,7 +9,7 @@ flower_prediction
 ### 2.depending on the givne input taking which type of activation function should be used
 ### finally calculating the diffrence between exact ouput and predicted output and try to minimise that cost as close as possible
 ## working strategy behind
-<img src=
+<img src="https://user-images.githubusercontent.com/39950187/44627746-c0af6c80-a950-11e8-9003-347ec695f372.png">
    
 # finally predicting the color of mystry flower
    <img src="https://user-images.githubusercontent.com/39950187/44627675-53e7a280-a94f-11e8-8676-fd38ac30964f.png">
