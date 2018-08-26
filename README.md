@@ -13,5 +13,10 @@ flower_prediction
    
 # learning step 
    <img src="https://user-images.githubusercontent.com/39950187/44627675-53e7a280-a94f-11e8-8676-fd38ac30964f.png">
-# finally output by the computer system wheter flower is red or blue
-# hope u enjoyed it!!!!! free feel to make change
+   
+### finally output by the computer system wheter flower is red or blue
+ 
+ 
+# @authers quote"
+   hope u enjoyed it!!!!! free feel to make changes . 
+# ;)....."
